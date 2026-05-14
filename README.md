@@ -1,2 +1,3 @@
 # PT-notes
-Some of my pentesting notes
+
+Notes covering a variety of topics in the field of offensive testing.
